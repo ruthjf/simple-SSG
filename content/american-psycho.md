@@ -1,6 +1,6 @@
 ---
 title: American Psycho (2000 Film)
-date: 1583777940720
+date: 1624046576117
 description: American Psycho is a 2000 American satirical horror film co-written and directed by Mary Harron, based on Bret Easton Ellis's 1991 novel of the same name.[5] It stars Christian Bale, Willem Dafoe, Jared Leto, Josh Lucas, Chloë Sevigny, Samantha Mathis, Cara Seymour, Justin Theroux, Guinevere Turner, Reg E. Cathey and Reese Witherspoon. Set in the 1980s, the film focuses on the actions of Patrick Bateman, the self-proclaimed "American psycho" of the title. While at first glance Bateman is a yuppie New York City investment banker, he is gradually revealed to be living a gruesome second life as a serial killer preying on prostitutes, work colleagues, and finally random members of the public.
 ---
 
